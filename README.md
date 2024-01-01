@@ -15,6 +15,11 @@ Use openCV to create an image processing code.
 
 <br><br>
 
+## posting
+__[go to the page](https://victorywskim.tistory.com/83)__
+
+<br><br>
+
 ## License 
  ```code
 Copyright 2024 wskim
